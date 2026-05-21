@@ -1,5 +1,5 @@
 Roses are red
-Violets are blue
+Violets are not blue
 Most poems rhyme
 But this one don't
 cuz im bored
