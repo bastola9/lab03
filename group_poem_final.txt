@@ -3,8 +3,9 @@ Violets are blue like glue,
 Grass is green.
 
 
-"Programming is fun" he decides,
-And teamwork is too,
 Most poems rhyme
 But this one don't
+Violets are not  blue like glue,   //i think violets are vilolet not blue _nayan
+"Programming is fun" he decides,
+And teamwork is too.
 - Poem 1.
