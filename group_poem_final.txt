@@ -1,5 +1,5 @@
 Roses are red sometimes,
-Violets are blue like glue,
+Violets are not  blue like glue,   //i think violets are vilolet not blue _nayan
 "Programming is fun" he decides,
 And teamwork is too.
 - Poem 1.
