@@ -1,11 +1,6 @@
 Roses are red sometimes,
-Violets are blue like glue,
-Grass is green.
-
-
-Most poems rhyme
-But this one don't
+Grass is green. // this is from gabreal ading line 
 Violets are not  blue like glue,   //i think violets are vilolet not blue _nayan
-"Programming is fun" he decides,
+"Programming is fun" he decides,  // alex wanted this 
 And teamwork is too.
 - Poem 1.
